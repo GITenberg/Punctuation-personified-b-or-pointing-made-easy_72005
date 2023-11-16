@@ -1,11 +1,16 @@
 _repo: Punctuation-personified-b-or-pointing-made-easy_72005
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72005-h/images/cover.jpg
 creator:
   author:
     agent_name: '"Mr. Stops"'
     gutenberg_agent_id: '56495'
     url: http://www.gutenberg.org/2009/agents/56495
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72005#Punctuation-personified-b-or-pointing-made-easy
 gutenberg_issued: '2023-11-01'
 identifiers:
   gutenberg: '72005'
